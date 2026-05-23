@@ -209,6 +209,8 @@ Conclusion
 
 This project successfully demonstrated how AWS cloud services can be used together to create a resilient, scalable, secure, and highly available web application infrastructure. By implementing services like EC2, ALB, Auto Scaling, EFS, and Route 53, the project achieved better scalability, fault tolerance, and performance optimization while following cloud best practices.
 
+project video = https://www.linkedin.com/in/milan-vekariya-a51632358?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 <img width="673" height="918" alt="Image" src="https://github.com/user-attachments/assets/fc420753-1557-4e6f-998d-cb0501ab5279" />
 
 <img width="954" height="659" alt="Image" src="https://github.com/user-attachments/assets/02c9f4c9-c96b-44f5-aff4-1ebce18dd8d7" />
