@@ -209,5 +209,23 @@ Conclusion
 
 This project successfully demonstrated how AWS cloud services can be used together to create a resilient, scalable, secure, and highly available web application infrastructure. By implementing services like EC2, ALB, Auto Scaling, EFS, and Route 53, the project achieved better scalability, fault tolerance, and performance optimization while following cloud best practices.
 
+<img width="673" height="918" alt="Image" src="https://github.com/user-attachments/assets/fc420753-1557-4e6f-998d-cb0501ab5279" />
+
+<img width="954" height="659" alt="Image" src="https://github.com/user-attachments/assets/02c9f4c9-c96b-44f5-aff4-1ebce18dd8d7" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/a725ddcf-b7bc-40f8-b082-0da729e27f10" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/82675547-f0cb-47e0-a040-b224fc5d764b" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/6ec3f30c-4d69-4ec2-b788-59519131df77" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9459bce3-b0d7-48a9-88b1-75f52073c4f2" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/440838dd-5bcf-471b-8879-a16fcc2f4d25" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/9ee3b078-4f65-46ac-b44f-617383203a83" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/b235cad5-3535-4112-bf5c-df8bb2ec0ab0" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/eea4b19f-7f97-4c84-a0f1-20f780ea9f04" />
+
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/cd369199-6ec1-406d-b5d4-132510083c0f" />
+<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/e349007a-2d5b-4332-aafd-41311388e136" />
+
 
 
